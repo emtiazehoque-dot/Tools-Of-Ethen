@@ -1,5 +1,8 @@
 # Habit Tracker (Beta)
 
+> Free to use and share, download, open in browser, use `install page as app` from the browser. Done!
+> Works in both mobile and pc.
+
 A lightweight, offline, web-based habit tracker designed for speed and simplicity. Open `index.html` in your browser to run the app — no server or internet connection required.
 
 **Characteristics**
