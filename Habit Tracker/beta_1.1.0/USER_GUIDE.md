@@ -4,7 +4,7 @@ Just follow the link and add the app to your device home screen as shown in the 
 
 ### Open the link
 
-[This link will be updated soon!](#url)
+[This link will be updated soon!](https://emtiazehoque-dot.github.io/Tools-Of-Ethen/)
 
 ### PC install
 
