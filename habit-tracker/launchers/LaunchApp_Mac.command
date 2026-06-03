@@ -1,6 +1,6 @@
 #!/bin/bash
 # Move into the folder where this script is saved
-cd "$(dirname "$0")"
+cd "$(dirname -- "${BASH_SOURCE[0]}")/.."
 
 # Start Python's built-in simple server in the background (built-in to macOS)
 python3 -m http.server 8080 > /dev/null 2>&1 &

@@ -1,5 +1,5 @@
 #!/bin/bash
-cd "$(dirname "$0")"
+cd "$(dirname -- "${BASH_SOURCE[0]}")/.."
 # Launch python's built-in server on a free port
 python3 -m http.server 8080 > /dev/null 2>&1 &
 sleep 1
