@@ -4,18 +4,18 @@ Just follow the link and add the app to your device home screen as shown in the 
 
 ### Open the link
 
-[This link will be updated soon!](https://emtiazehoque-dot.github.io/Tools-Of-Ethen/)
+[Click this link to get started!](https://emtiazehoque-dot.github.io/Tools-Of-Ethen/)
 
 ### PC install
 
 Just click the download button
-![PC Download Image: Just click the download button](screenshots/pc.png "Check Your Homescreen To Confirm Installation Afterwards")
+![PC Download Image: Just click the download button](docs/screenshots/pc.png "Check Your Homescreen To Confirm Installation Afterwards")
 
 ### Mobile install
 
 Follow the link and do as the screenshot suggests.
-![Click the three dot button to open dropdown menu](screenshots/mobile_1.png "Chrome Example. Other browsers should be the same")
-![Then click `Add to home screen` for chrome](screenshots/mobile_2.png "Other browsers have similar icons. Look for download icons.")
+![Click the three dot button to open dropdown menu](docs/screenshots/mobile_1.png "Chrome Example. Other browsers should be the same")
+![Then click `Add to home screen` for chrome](docs/screenshots/mobile_2.png "Other browsers have similar icons. Look for download icons.")
 
 
 ### Note:

@@ -2,23 +2,24 @@
   "name": "Habit Tracker",
   "short_name": "HabitTracker",
   "description": "A simple and intuitive habit tracker to help you build momentum one day at a time. Track daily, weekly and monthly habits with ease. Offline-first, browser-based (accessible from any device), and designed for simplicity.",
-  "version": "1.1.0.0",
+  "version": "1.1.0.1",
   "version_name": "beta test 02",
   "icons": [
     {
-      "src": "logo-192.png",
+      "src": "icons/logo-192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "logo-512.png",
+      "src": "icons/logo-512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "../src/index.html",
+  "id": "/habit-tracker/src/index.html",
   "background_color": "#FFFFFF",
   "theme_color": "#000000",
   "display": "standalone"

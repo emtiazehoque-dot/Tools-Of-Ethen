@@ -1,32 +1,4 @@
-// const colors = [
-//   "#000000",
-//   "#7F8C8D",
-//   "#dfe6e9",
-//   "#ffffff",
-//   "#d42d2d",
-//   "#ff6b6b",
-//   "#ff8c42",
-//   "#ffb86b",
-//   "#eeee25",
-//   "#ffeaa7",
-//   "#9b5de5",
-//   "#9B59B6",
-//   "#a29bfe",
-//   "#2772eb",
-//   "#74B9FF",
-//   "#06b6d4",
-//   "#479bbc",
-//   "#4ecdc4",
-//   "#96ceb4",
-//   "#74c69d",
-//   "#52b788",
-//   "#2d6a4f",
-//   "#fd79a8",
-//   "#ff6bcb",
-//   "#E84393",
-//   "#ffb4a2",
-//   "#2ECC71",
-// ];
+console.log("Main JS file working!");
 
 const colors = [
   "#d42d2d",
@@ -407,6 +379,7 @@ function initializeColorPickers() {
     option.style.background = `linear-gradient(135deg, ${p1} 0%, ${p2} 100%)`;
     option.tabIndex = 0;
     option.setAttribute("role", "button");
+    option.setAttribute("area-labelledby", "pick-color");
     option.setAttribute(
       "aria-pressed",
       palette === settings.palette ? "true" : "false",

@@ -2,13 +2,14 @@ const CACHE_NAME = "static-cache-v1";
 
 // All paths are strictly relative (no leading slash)
 const ASSETS_TO_CACHE = [
-  "index.html",
-  "styles.css",
-  "app.js",
-  "manifest.json",
-  "logo.svg",
-  "logo-192.png",
-  "logo-512.png",
+  "/",
+  "src/index.html",
+  "src/css/styles.css",
+  "src/js/app.js",
+  "public/manifest.json",
+  "public/icons/logo.svg",
+  "public/icons/logo-192.png",
+  "public/icons/logo-512.png",
 ];
 
 // Install event: Cache everything locally
