@@ -3,7 +3,7 @@ const CACHE_NAME = "static-cache-v1";
 // All paths are strictly relative (no leading slash)
 const ASSETS_TO_CACHE = [
   "/",
-  "src/index.html",
+  "index.html",
   "src/css/styles.css",
   "src/js/app.js",
   "public/manifest.json",
